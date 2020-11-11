@@ -98,8 +98,10 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-    loop();
+
     /* USER CODE BEGIN 3 */
+    loop();
+    HAL_Delay(500);
   }
   /* USER CODE END 3 */
 }
