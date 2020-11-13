@@ -1,5 +1,6 @@
 # stm32_ros_chatter
 
+This if for STM32F446 Nucleo-64
 
 ## Requirements
 
